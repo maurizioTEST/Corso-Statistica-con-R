@@ -1,0 +1,137 @@
+denominazione;maschi;femmine;totale;tipo;regione
+Chieti;184665;194175;378840;;Abruzzo
+L'Aquila;145759;149079;294838;;Abruzzo
+Pescara;152614;163749;316363;;Abruzzo
+Teramo;148705;155195;303900;;Abruzzo
+Matera;95908;98945;194853;;Basilicata
+Potenza;176242;182159;358401;;Basilicata
+Catanzaro;170259;179085;349344;;Calabria
+Cosenza;338116;352387;690503;;Calabria
+Crotone;84029;84552;168581;;Calabria
+Reggio di Calabria;258734;272233;530967;;Calabria
+Vibo Valentia;76594;78121;154715;;Calabria
+Avellino;201454;208915;410369;;Campania
+Benevento;133407;138911;272318;;Campania
+Caserta;447522;466144;913666;;Campania
+Napoli;1472873;1561537;3034410;;Campania
+Salerno;529360;552020;1081380;;Campania
+Bologna;493185;528316;1021501;;Emilia-Romagna
+Ferrara;165912;178598;344510;;Emilia-Romagna
+Forlì-Cesena;192660;202646;395306;;Emilia-Romagna
+Modena;346686;360433;707119;;Emilia-Romagna
+Parma;222547;232326;454873;;Emilia-Romagna
+Piacenza;140425;146008;286433;;Emilia-Romagna
+Ravenna;188761;199209;387970;;Emilia-Romagna
+Reggio nell'Emilia;260736;268873;529609;;Emilia-Romagna
+Rimini;162869;173929;336798;;Emilia-Romagna
+Gorizia;67659;70136;137795;;Friuli Venezia Giulia
+Pordenone;152649;157853;310502;;Friuli Venezia Giulia
+Trieste;111049;120396;231445;;Friuli Venezia Giulia
+Udine;255362;271112;526474;;Friuli Venezia Giulia
+Frosinone;234783;242719;477502;;Lazio
+Latina;278063;284529;562592;;Lazio
+Rieti;75490;77007;152497;;Lazio
+Roma;2038876;2214438;4253314;;Lazio
+Viterbo;151969;157826;309795;;Lazio
+Genova;393657;432537;826194;;Liguria
+Imperia;101094;108288;209382;;Liguria
+La Spezia;105204;112214;217418;;Liguria
+Savona;130416;141416;271832;;Liguria
+Bergamo;549853;558273;1108126;;Lombardia
+Brescia;619811;635626;1255437;;Lombardia
+Como;293740;303902;597642;;Lombardia
+Cremona;175602;180306;355908;;Lombardia
+Lecco;165229;169732;334961;;Lombardia
+Lodi;112331;115081;227412;;Lombardia
+Mantova;200102;206817;406919;;Lombardia
+Milano;1585425;1679902;3265327;;Lombardia
+Monza e della Brianza;426302;443891;870193;;Lombardia
+Pavia;264325;276051;540376;;Lombardia
+Sondrio;88684;91741;180425;;Lombardia
+Varese;430971;453905;884876;;Lombardia
+Ancona;226467;240984;467451;;Marche
+Ascoli Piceno;99998;106174;206172;;Marche
+Fermo;83912;87825;171737;;Marche
+Macerata;151062;159753;310815;;Marche
+Pesaro e Urbino;174252;182245;356497;;Marche
+Campobasso;106768;110594;217362;;Molise
+Isernia;41185;41969;83154;;Molise
+Bolzano;263592;269052;532644;;P.A. Bolzano
+Trento;267914;277511;545425;;P.A. Trento
+Alessandria;202746;214542;417288;;Piemonte
+Asti;103913;108097;212010;;Piemonte
+Biella;83781;90389;174170;;Piemonte
+Cuneo;289284;296829;586113;;Piemonte
+Novara;177671;187309;364980;;Piemonte
+Torino;1079491;1151455;2230946;;Piemonte
+Verbano-Cusio-Ossola;75812;80508;156320;;Piemonte
+Vercelli;82360;87030;169390;;Piemonte
+Bari;600139;630066;1230205;;Puglia
+Barletta-Andria-Trani;190156;194645;384801;;Puglia
+Brindisi;186266;198969;385235;;Puglia
+Foggia;297927;308977;606904;;Puglia
+Lecce;375525;406640;782165;;Puglia
+Taranto;273519;290476;563995;;Puglia
+Cagliari;204797;218043;422840;;Sardegna
+Nuoro;101114;104091;205205;;Sardegna
+Oristano;76350;78624;154974;;Sardegna
+Sassari;238642;245765;484407;;Sardegna
+Sud Sardegna;170793;173402;344195;;Sardegna
+Agrigento;206000;217488;423488;;Sicilia
+Caltanissetta;123883;132048;255931;;Sicilia
+Catania;520750;551884;1072634;;Sicilia
+Enna;77520;82641;160161;;Sicilia
+Messina;296351;317536;613887;;Sicilia
+Palermo;591325;631663;1222988;;Sicilia
+Ragusa;156514;159087;315601;;Sicilia
+Siracusa;191804;197540;389344;;Sicilia
+Trapani;206795;214461;421256;;Sicilia
+Arezzo;165427;173745;339172;;Toscana
+Firenze;477451;518066;995517;;Toscana
+Grosseto;106297;113393;219690;;Toscana
+Livorno;160003;171874;331877;;Toscana
+Lucca;184891;197652;382543;;Toscana
+Massa Carrara;92752;98933;191685;;Toscana
+Pisa;203611;214511;418122;;Toscana
+Pistoia;140888;150809;291697;;Toscana
+Prato;125302;131771;257073;;Toscana
+Siena;127696;137483;265179;;Toscana
+Perugia;312637;334073;646710;;Umbria
+Terni;107257;116198;223455;;Umbria
+Aosta;61121;63913;125034;;Valle d'Aosta
+Belluno;97871;103438;201309;;Veneto
+Padova;455981;477719;933700;;Veneto
+Rovigo;112889;118845;231734;;Veneto
+Treviso;434858;448664;883522;;Veneto
+Venezia;412402;436427;848829;;Veneto
+Verona;453736;471006;924742;;Veneto
+Vicenza;421980;433317;855297;;Veneto
+Abruzzo;631743;662198;1293941;Regione;
+Basilicata;272150;281104;553254;Regione;
+P.A. Bolzano;263592;269052;532644;Regione;
+Calabria;927732;966378;1894110;Regione;
+Campania;2784616;2927527;5712143;Regione;
+Centro;5719084;6112008;11831092;Area;
+Emilia-Romagna;2173781;2290338;4464119;Regione;
+Friuli Venezia Giulia;586719;619497;1206216;Regione;
+Isole;3162638;3324273;6486911;Area;
+Italia;29050096;30591392;59641488;Stato;
+Lazio;2779181;2976519;5755700;Regione;
+Liguria;730371;794455;1524826;Regione;
+Lombardia;4912375;5115227;10027602;Regione;
+Marche;735691;776981;1512672;Regione;
+Molise;147953;152563;300516;Regione;
+Nord-est;5681723;5945814;11627537;Area;
+Nord-ovest;7798925;8189754;15988679;Area;
+Piemonte;2095058;2216159;4311217;Regione;
+Puglia;1923532;2029773;3953305;Regione;
+Sardegna;791696;819925;1611621;Regione;
+Sicilia;2370942;2504348;4875290;Regione;
+Sud;6687726;7019543;13707269;Area;
+Toscana;1784318;1908237;3692555;Regione;
+Trentino Alto Adige / Südtirol;531506;546563;1078069;Area;
+P.A. Trento;267914;277511;545425;Regione;
+Umbria;419894;450271;870165;Regione;
+Valle d'Aosta;61121;63913;125034;Regione;
+Veneto;2389717;2489416;4879133;Regione;
+;Dati estratti il 10 Mar 2021 21:09 UTC (GMT) da I.Stat;;;;
