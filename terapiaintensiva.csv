@@ -1,26 +1,24 @@
-"","denominazione_regione","Ricoverati","PL in Area Non Critica","Ricoverati in Terapia intensiva","PL","PL Terapia"
-"1","Abruzzo",573,"1495","71","215","0"
-"2","Basilicata",175,"442","12","88","13"
-"3","Calabria",420,"932","38","152","25"
-"4","Campania",1567,"4.3499999999999996","152","620","36"
-"5","Emilia-Romagna",3181,"6515","366","760","0"
-"6","Friuli Venezia Giulia",596,"1277","78","175","0"
-"7","Lazio",3077,"6421","392","943","193"
-"8","Liguria",652,"1.841","78","226","12"
-"9","Lombardia",666,"13693","862","1416","114"
-"10","Marche",785,"1386","140","250","16"
-"11","Molise",55,"221","14","39","0"
-"12","P.A. Bolzano",69,"478","16","100","0"
-"13","P.A. Trento",179,"594","51","90","15"
-"14","Piemonte",3819,"5824","369","628","99"
-"15","Puglia",1897,"3762","256","580","80"
-"16","Sardegna",255,"1602","38","208","35"
-"17","Sicilia",902,"3893","152","834","196"
-"18","Toscana",1603,"5033","278","626","18"
-"19","Umbria",317,"844","53","132","2"
-"20","Valle d'Aosta",55,"227","12","30","6"
-"21","Veneto",1652,"6","286","1000","0"
-"22","Italia",28489,"6683","3714","9112","860"
-"23",NA,NA,NA,NA,NA,NA
-"24",NA,NA,NA,NA,NA,NA
-"25",NA,NA,"PL in Area Non Critica","Ricoverati in Terapia intensiva","PL in Terapia Intensiva","PL Terapia"
+"","22 aprile 2021","Regioni","Ricoverati in Area Non Critica","PL in Area Non Critica","Ricoverati in Terapia intensiva","PL in Terapia Intensiva","PL Terapia Intensiva attivab"
+"1",NA,"Abruzzo",466,1426,46,187,0
+"2",NA,"Basilicata",154,436,12,88,13
+"3",NA,"Calabria",467,967,44,156,25
+"4",NA,"Campania",1541,4304,143,620,36
+"5",NA,"Emilia-Romagna",2029,6538,282,760,0
+"6",NA,"Friuli Venezia Giulia",319,1277,43,175,0
+"7",NA,"Lazio",2578,6421,338,943,193
+"8",NA,"Liguria",564,1811,69,226,12
+"9",NA,"Lombardia",4352,12026,653,1416,114
+"10",NA,"Marche",524,1352,72,237,29
+"11",NA,"Molise",40,221,14,39,0
+"12",NA,"PA Bolzano",61,460,11,100,0
+"13",NA,"PA Trento",99,557,26,90,15
+"14",NA,"Piemonte",2568,5824,280,628,99
+"15",NA,"Puglia",1819,3768,260,586,0
+"16",NA,"Sardegna",375,1602,53,216,33
+"17",NA,"Sicilia",1244,3854,178,835,196
+"18",NA,"Toscana",1524,5033,257,624,16
+"19",NA,"Umbria",194,807,34,117,2
+"20",NA,"Valle d'Aosta",51,227,12,30,6
+"21",NA,"Veneto",1125,6000,194,1000,0
+"22",NA,"Italia",22094,64911,3021,9073,78
+"23","https://wwwagenasgovit/covid19/web/indexphp?r=site%2Ftab2",NA,NA,NA,NA,NA,NA
