@@ -1,0 +1,164 @@
+
+
+.border {
+  border: 1px solid #dee2e6;
+}
+
+.border-thick {
+  border-width: 3px;
+}
+
+.border2 {
+  background-color: white;
+  border: 1px solid #dee2e6;
+  max-height: 660px;
+}
+
+.border3 {
+  background-color: cyan;
+  border: 2px solid #dee2e6;
+  max-height: 660px;
+}
+
+.colred {
+  color: red;
+  border: 4px solid #dee2e6;
+  max-height: 660px;
+}
+
+.bluec {
+  color: blue;}
+.greenc {
+  color: green;}
+    
+.redc {
+  color: red;}
+  
+.boxred {
+  color: red;
+  border: 14px solid #aa00ff;
+  max-height: 660px;
+} 
+
+.bluebox {
+  color: blue;
+  background-color: yellow;
+  border: 14px solid cyan;
+  max-height: 660px;
+} 
+
+.codiceR 
+{font-size: 60pt; 
+color:rgb(38, 18, 68); 
+font-weight: 200; 
+font-family: palatino; 
+style="color: #000000; 
+background-color:  #F8F2F1}
+
+.codicesmallR 
+{font-size: 15pt; 
+color:rgb(38, 18, 68); 
+font-weight: 200; 
+font-family: palatino; 
+style="color: #000000; 
+background-color:  #F8F2F1}
+
+.defi {
+font-size: 110%; 
+font-weight:400; 
+font-family: arial;
+border: 3px solid brown;
+color: #444444; 
+background-color:  cyan;}
+
+
+.defiR {
+font-size: 110%; 
+font-weight:400; 
+font-family: Times New Roman;
+border: 3px solid brown;
+color: blue; 
+background-color:  cyan;}
+
+
+
+.teorema {
+font-size: 100%; 
+font-weight:400; 
+font-family: arial;
+border: 4px solid brown;
+color: #444444; 
+background-color:  white;}
+
+.highl {
+font-size: 120%; 
+font-weight:300; 
+font-family: arial;
+border: 4px solid brown;
+color: #444444; 
+background-color:  white;}
+
+
+.lexi {
+font-size: 110%; 
+font-weight:400; 
+font-family: arial;
+border: 3px solid brown;
+color: #444444; 
+background-color:  cyan;}
+
+
+.lexieng {
+font-size: 110%; 
+font-weight:400; 
+border: 3px solid brown;
+font-family: arial;
+border: 3px  solid brown;
+color: #444444;
+background-color:  yellow;
+}
+
+.Rl{
+  color: blue; 
+  font-weight:bold;
+}
+
+
+.rcode {
+font-size: 110%; 
+font-weight:400; 
+border: 3px solid brown;
+font-family: arial; 
+color: brown; 
+}
+
+.ol { list-style-type: upper-alpha; }
+
+.border3 {
+  background-color: cyan;
+  border: 2px solid #dee2e6;
+  max-height: 660px;
+}
+
+
+.bluecolor {font-size: 120%; color:SteelBlue; 
+            font-weight:bold; font-family: arial}
+ 
+.sottolinea{text-decoration: underline;}
+
+.piccolo{  border: 1px solid #dee2e6;font-size: 60%;}
+.piccolissimo{  border: 1px solid #dee2e6;font-size: 50%;}
+.alphal{list-style-type: lower-alpha;}
+
+ .sottolinea 
+{border-bottom: 5px solid lightblue;}
+ 
+
+
+.memotecnica {font-size: 110%; background-color: rgb(255, 191, 0); color:brown;  font-family: arial}
+
+.DEFI {font-size: 110%; background-color: rgb(55, 191, 0); color: blue;  font-family: arial}
+
+.smallo {font-size: 80%; background-color: rgb(255, 191, 0); color:brown;  font-family: arial}
+
+.quiz {font-size: 100%; background-color: rgb(10,50,100); color:cyan;  font-family: arial}
